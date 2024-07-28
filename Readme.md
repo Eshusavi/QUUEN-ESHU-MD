@@ -6,6 +6,12 @@ QUUEN ESHU-MD is a powerful and versatile WhatsApp bot built using Node.js and t
 
 🚀 Deploy yourQUUEN ESHU-MD on DigitalOcean and get $200 in free credits! Click the badge above to sign up and take advantage of this amazing offer. DigitalOcean's reliable and scalable cloud infrastructure ensures your bot runs smoothly, no matter how many users you have. Don't miss out on this opportunity to supercharge your WhatsApp experience!
 
+#### DEPLOY TO HEROKU 
+
+1. If You don't have a account in Heroku. Create a account.
+    <br>
+<a href='https://heroku.com' target="_blank"><img alt='Replit' src='https://img.shields.io/badge/-Create-black?style=for-the-badge&logo=heroku'/></a>
+
 ## Table of Contents
 
 - [Installation](#installation)
