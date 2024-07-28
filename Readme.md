@@ -6,11 +6,21 @@ QUUEN ESHU-MD is a powerful and versatile WhatsApp bot built using Node.js and t
 
 🚀 Deploy yourQUUEN ESHU-MD on DigitalOcean and get $200 in free credits! Click the badge above to sign up and take advantage of this amazing offer. DigitalOcean's reliable and scalable cloud infrastructure ensures your bot runs smoothly, no matter how many users you have. Don't miss out on this opportunity to supercharge your WhatsApp experience!
 
-#### DEPLOY TO HEROKU 
+#### SETUP
 
-1. If You don't have a account in Heroku. Create a account.
+1. Fork the repo
     <br>
-<a href='https://heroku.com' target="_blank"><img alt='Replit' src='https://img.shields.io/badge/-Create-black?style=for-the-badge&logo=heroku'/></a>
+<a href='https://github.com/Guru322/GURU-BOT/fork' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Fork Repo-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
+
+2. Scan the QR and upload guru.data.json to your fork(will recieve it on your bot number after scanning)
+    <br>
+<a href='https://replit.com/@Guru322/GURU-BOT-QR-CODE-GENERATOR?v=1' target="_blank"><img alt='SCAN QR' src='https://img.shields.io/badge/Scan_qr-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
+
+#### DEPLOY TO COOLIFY (server overloaded right now)
+
+1. If You don't have a account in Coolify. Create a account.
+    <br>
+<p align="center"><a href="http://65.21.52.72:3000/register"> <img src="https://img.shields.io/badge/coolify%20Account-blue?style=for-the-badge&logo=coolify" width="220" height="38.45"/></a></p>
 
 ## Table of Contents
 
