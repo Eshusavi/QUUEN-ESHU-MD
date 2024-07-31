@@ -22,13 +22,6 @@ QUUEN ESHU-MD is a powerful and versatile WhatsApp bot built using Node.js and t
     <br>
 <p align="center"><a href="http://65.21.52.72:3000/register"> <img src="https://img.shields.io/badge/coolify%20Account-blue?style=for-the-badge&logo=coolify" width="220" height="38.45"/></a></p>
 
-
-#### DEPLOY TO COOLIFY (server overloaded right now)
-
-1. If You don't have a account in Coolify. Create a account.
-    <br>
-<p align="center"><a href="http://65.21.52.72:3000/register"> <img src="https://img.shields.io/badge/coolify%20Account-blue?style=for-the-badge&logo=coolify" width="220" height="38.45"/></a></p>
-
 ## Table of Contents
 
 - [Installation](#installation)
